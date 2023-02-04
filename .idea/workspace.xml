@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9690abb-accd-4b5f-b0c9-d26470fbf9a7" name="Changes" comment="First Java exercise">
-      <change afterPath="$PROJECT_DIR$/src/com/company/DocumentacionComentarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/VariablesTiposDatos.java" afterDir="false" />
+    <list default="true" id="d9690abb-accd-4b5f-b0c9-d26470fbf9a7" name="Changes" comment="    Comentarios y documentaciòn">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Operadores.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +70,14 @@
       <updated>1675469826704</updated>
       <workItem from="1675469827970" duration="575000" />
     </task>
+    <task id="LOCAL-00001" summary="    Comentarios y documentaciòn">
+      <created>1675474700392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675474700392</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +96,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Java exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Java exercise" />
+    <MESSAGE value="Comentarios y documentaciòn" />
+    <MESSAGE value="    Comentarios y documentaciòn" />
+    <option name="LAST_COMMIT_MESSAGE" value="    Comentarios y documentaciòn" />
   </component>
 </project>
